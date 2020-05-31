@@ -1,6 +1,6 @@
 {
   "name": "@techrdev/stylelint-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Stylelint Techr sharable configuration",
   "main": "index.js",
   "repository": {
