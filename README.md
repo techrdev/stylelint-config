@@ -2,6 +2,7 @@
 
 > Opinionated Stylelint sharable config for Techr projects.
 
+**NOTE: Every @techrdev packages are hosted on GitHub Packges. You need to add `--registry https://npm.pkg.github.com` when installing the package. Otherwise, on your `.npmrc` add `@techrdev:registry=https://npm.pkg.github.com`**
 
 ## Install
 
